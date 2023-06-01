@@ -1,0 +1,697 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+/*this part baout navigation*/
+.navigation {
+    border: 1px solid black;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    background-color: rgba(245, 245, 220, 0.469);
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+.list1 li {
+    margin-left: 40px;
+}
+
+#web {
+    margin-left: 200px;
+    margin-top: -22px;
+
+}
+
+#heading {
+    margin-left: 200px;
+    margin-top: -22px;
+}
+
+#gap {
+    margin-top: -22px;
+}
+
+#hc {
+    margin-top: -22px;
+}
+
+#uc {
+    margin-top: -22px;
+}
+
+#class {
+    margin-top: -22px;
+}
+
+
+
+
+
+.list1 {
+    margin-left: 300px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+/**this part about body*/
+.color {
+    background-color: rgba(245, 245, 245, 0.93);
+}
+
+img {
+    margin-left: 35px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+div {
+    background-color: cornsilk;
+}
+
+.word {
+    color: white;
+    margin-left: 220px;
+    font-size: 62px;
+    margin-top: -560px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+}
+
+#para {
+    position: absolute;
+    top: 470px;
+    left: 220px;
+    color: white;
+    font-size: large;
+}
+
+.club {
+    position: absolute;
+    top: 620px;
+    right: 1105px;
+    height: 50px;
+    width: 140px;
+    border-radius: 25px;
+    left: 230px;
+    background-color: rgba(62, 187, 62, 0.917);
+    border: 1px rgba(62, 187, 62, 0.917);
+}
+
+.club:hover {
+    background-color: white;
+    color: black;
+}
+
+/**this part about stickers*/
+.tamana {
+    position: absolute;
+    left: 780px;
+    height: 38px;
+    width: 400px;
+    top: 140px;
+    animation-name: shobhit;
+    animation-duration: 1s;
+}
+
+.dell {
+    position: absolute;
+    top: 162px;
+    left: 740px;
+}
+
+.sound {
+    position: absolute;
+    left: 780px;
+    top: 295px;
+    height: 58px;
+    width: 390px;
+}
+
+.smile {
+    position: absolute;
+    left: 780px;
+    top: 360px;
+    height: 230px;
+}
+
+.cry {
+    position: absolute;
+    left: 780px;
+    top: 570px;
+    width: 400px;
+}
+
+.writing {
+    position: absolute;
+    left: 780px;
+    top: 630px;
+    width: 390px;
+    height: 50px;
+}
+
+#heart {
+    position: relative;
+    top: -695px;
+    width: 22px;
+    left: 800px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+/**this part about lower body*/
+h5 {
+    margin-left: 1050px;
+    margin-top: -50px;
+    color: rgba(0, 0, 0, 0.584);
+}
+
+.logo {
+    width: 90%;
+}
+
+#graph {
+    font-size: 38px;
+    margin-left: 260px;
+    letter-spacing: -1px;
+    line-height: 38px;
+    color: rgba(0, 0, 0, 0.698);
+    margin-top: 40px;
+}
+
+.mego {
+    width: 90%;
+}
+
+.gome {
+    margin-left: 180px;
+    margin-top: 150px;
+    font-size: 55px;
+}
+
+.neha {
+    margin-left: 170px;
+    margin-top: 40px;
+    color: rgba(0, 0, 0, 0.629);
+}
+
+.sona {
+    margin-left: 170px;
+    margin-top: 50px;
+    color: rgba(0, 0, 0, 0.717);
+}
+
+.sona:hover {
+    color: rgba(76, 201, 76, 0.91);
+}
+
+.hona {
+    margin-left: 800px;
+    margin-top: -500px;
+}
+
+.power {
+    border: 1px solid black;
+    width: 99%;
+    height: 780px;
+    background-color: rgba(0, 0, 0, 0.892);
+}
+
+.saving {
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+.free {
+    margin-left: 800px;
+    margin-top: -470px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.speak {
+    margin-left: 800px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(85, 193, 85, 0.931);
+}
+
+#end {
+    color: white;
+    margin-left: 800px;
+    margin-top: 20px;
+    font-size: large;
+}
+
+.talking {
+    color: white;
+    margin-left: 800px;
+    margin-top: 30px;
+}
+
+.talking:hover {
+    color: rgba(87, 206, 87, 0.852);
+}
+
+.touch {
+    margin-top: 210px;
+    margin-left: 250px;
+    font-size: 43px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 0, 0.785);
+
+
+}
+
+.friend {
+    margin-left: 250px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.more {
+    margin-left: 250px;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+
+.more:hover {
+    color: rgba(83, 199, 83, 0.928);
+
+}
+
+.log {
+    margin-left: 800PX;
+    margin-top: -350px;
+    width: 300px;
+    position: relative;
+
+}
+
+.you {
+    position: absolute;
+    left: 740px;
+    top: 3280px;
+    width: 340px;
+
+}
+
+#hi {
+    background-color: rgba(252, 213, 166, 0.886);
+}
+
+.cash {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    width: 303px;
+}
+
+.money {
+    position: absolute;
+    top: 4100px;
+    width: 295px;
+    left: 300px;
+}
+
+.feel {
+    margin-left: 780px;
+    margin-top: -330px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.record {
+    margin-left: 780px;
+    margin-top: 18px;
+    font-size: 16px;
+}
+
+.learn {
+    margin-left: 780px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.learn:hover {
+    color: rgba(83, 199, 83, 0.928)
+}
+
+.transform {
+    margin-top: 460px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 250px;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.scale {
+    margin-left: 250px;
+    margin-top: 18px;
+    font-size: 16px;
+}
+
+.or {
+    margin-left: 250px;
+    margin-top: 23px;
+    font-size: 16px;
+}
+
+.or:hover {
+    color: rgba(83, 199, 83, 0.928)
+}
+
+.found {
+    margin-left: 780px;
+    margin-top: -450px;
+    width: 300px;
+}
+
+.setting {
+    border: 1px solid black;
+    width: 99.9%;
+    height: 500px;
+    margin-top: 90px;
+    border-radius: 20px;
+    position: relative;
+    background-color: #E6FFDA;
+}
+
+.withus {
+    position: absolute;
+    margin-left: 250px;
+    top: 100px;
+    font-size: 23px;
+    background-color: #E6FFDA;
+    font-weight: 300px;
+}
+
+.button {
+    margin-left: 250px;
+    margin-top: 380px;
+    border-radius: 90%;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+.but {
+    margin-left: 10px;
+    margin-top: 380px;
+    border-radius: 90%;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+.but:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.box2 {
+    border: 1px solid black;
+    position: absolute;
+    left: 760px;
+    top: 100px;
+    border: 1px solid rgba(255, 255, 255, 0.87);
+    border-radius: 20px;
+
+}
+
+.now {
+    position: absolute;
+    left: 60px;
+    font-size: large;
+}
+
+.box3 {
+    position: absolute;
+    left: 800px;
+    top: 150px;
+    font-size: 25px;
+}
+
+.box4 {
+    position: absolute;
+    left: 800px;
+    font-size: 27px;
+    top: 200px;
+    font-weight: 100;
+}
+
+.box5 {
+    position: absolute;
+    left: 800px;
+    font-size: 14px;
+    top: 280px;
+}
+
+.more1 {
+    position: absolute;
+    left: 800px;
+    top: 390px;
+    width: 100px;
+    height: 38px;
+    border-radius: 40px;
+}
+
+.more1:hover {
+    background-color: black;
+    color: white;
+}
+
+/*this part about last footer*/
+.up {
+    margin-left: 200px;
+    margin-top: 120px;
+}
+
+.q {
+    height: 500px;
+    width: 89.9pc;
+    background-color: black;
+    position: relative;
+    z-index: -1;
+    margin-top: -10px;
+}
+
+.bes {
+    height: 150px;
+    width: 160px;
+    border: 2px solid black;
+    background-color: transparent;
+}
+
+.boxes .bes {
+    display: inline-block;
+    position: absolute;
+    top: 120px;
+    left: 470px;
+}
+
+.bes span {
+    display: block;
+}
+
+#gap {
+    font-size: 13px;
+    margin: 15px;
+    color: white;
+}
+
+#gap0 {
+    margin: 15px;
+    color: white;
+}
+
+
+#gap1 {
+    margin: 15px;
+    color: white;
+    
+
+}
+
+/*box1*/
+.bes1 {
+    height: 150px;
+    width: 160px;
+    border: 2px solid black;
+    background-color: transparent;
+}
+
+.boxes .bes1 {
+    display: inline-block;
+    position: absolute;
+    left: 660px;
+    top: 120px;
+}
+
+.bes1 span {
+    display: block;
+}
+
+#grapes {
+    font-size: 13px;
+    margin: 15px;
+    color: white;
+}
+
+#grapes0 {
+    margin: 15px;
+    color: white;
+}
+
+#grapes1 {
+    margin: 15px;
+    color: white;
+}
+
+/*box2*/
+.bes2 {
+    height: 150px;
+    width: 160px;
+    border: 2px solid black;
+    background-color: transparent;
+}
+
+.boxes .bes2 {
+    display: inline-block;
+    left: 850px;
+    position: absolute;
+    top: 120px;
+}
+
+.bes2 span {
+    display: block;
+}
+
+#mango {
+    font-size: 13px;
+    margin: 15px;
+    color: white;
+}
+
+#mango1 {
+    margin: 7px;
+    color: white;
+}
+
+#mango2 {
+    margin: 15px;
+    color: white;
+}
+
+/*box3*/
+.bes3 {
+    height: 150px;
+    width: 190px;
+    border: 2px solid black;
+    background-color: transparent;
+}
+
+.boxes .bes3 {
+    display: inline-block;
+    left: 1040px;
+    position: absolute;
+    top: 120px;
+}
+
+.bes3 span {
+    display: block;
+}
+
+#apple {
+    font-size: 13px;
+    margin: 10px;
+    color: white;
+}
+
+#apple1 {
+    margin: 15px;
+    color: white;
+}
+
+#apple2 {
+    margin: 15px;
+    color: white;
+}
+
+.small {
+    color: white;
+    font-size: 13px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+.small1 {
+    color: white;
+    font-size: 13px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.sho2 {
+    position: absolute;
+    top: 290px;
+    left: 170px;
+    height: 45px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: rgba(67, 197, 67, 0.873);
+    border: 1px rgba(67, 197, 67, 0.873);
+}
+
+
+.footer-ul2 {
+    list-style: none;
+    display: flex;
+    position: absolute;
+    top: 370px;
+    left: 180px;
+    border-top: 1px solid green;
+    padding-top: 15px;
+
+}
+
+.footer-icon {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(208, 50, 50);
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.footer-li {
+    margin-left: 100px;
+}
+
+.footer-lb {
+    margin-left: 40px;
+}
